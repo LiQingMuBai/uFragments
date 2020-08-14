@@ -13,6 +13,16 @@ The official mainnet addresses are:
 - Market Oracle: [0x99c9775e076fdf99388c029550155032ba2d8914](https://etherscan.io/address/0x99c9775e076fdf99388c029550155032ba2d8914)
 - CPI Oracle: [0xa759f960dd59a1ad32c995ecabe802a0c35f244f](https://etherscan.io/address/0xa759f960dd59a1ad32c995ecabe802a0c35f244f)
 
+
+## 测试地址
+## AMPL代币 （mubai）
+Orchestrator:0xe1247c5dc23784a1b81ef97f0193eb7b6e37c983
+UFragmentsPolicy: 0x57736b35919fa2d03e930e899e81dfd8409aa932 
+UFragments: 0xa5b6f25f3ccfb15972add1478ee8a897eba3c806
+- Market Oracle: [0x99c9775e076fdf99388c029550155032ba2d8914](https://etherscan.io/address/0x99c9775e076fdf99388c029550155032ba2d8914)
+- CPI Oracle: [0xa759f960dd59a1ad32c995ecabe802a0c35f244f](https://etherscan.io/address/0xa759f960dd59a1ad32c995ecabe802a0c35f244f)
+
+
 ## Table of Contents
 
 - [Install](#install)
